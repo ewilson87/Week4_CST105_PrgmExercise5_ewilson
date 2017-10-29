@@ -1,0 +1,1 @@
+File ArrayExercise.txt MUST be located in the same directory as ArrayExercise.java
